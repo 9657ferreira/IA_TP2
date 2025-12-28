@@ -15,7 +15,7 @@ Repositório GitHub: https://github.com/9657ferreira/IA\_TP2.git
 * Notebook\_2\_Clustering.ipynb
 * Notebook\_3\_Association.ipynb
 * readme.txt
-* requirements.txt (opcional, mas recomendado)
+
 
 Nota:
 
